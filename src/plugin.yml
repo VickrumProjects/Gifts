@@ -1,0 +1,6 @@
+name: HeavenMC Gifts
+version: 1.0.0
+main: me.vickrum.gifts.Main
+authors: [Vickrum, Jordan]
+description: HeavenMC Gifts Command
+depend: [MassiveCore]
